@@ -1,16 +1,18 @@
-## Hi there 👋
+## Hi, I'm Ege!
+### 🚀 Verified Developer on Discord  
+Owner of Rebirth  
+Co-Founder of @BotBase-Code  
 
-<!--
-**elydel/elydel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="left">
+  <a href="https://discord.com/users/382275682392211466">
+    <img src="https://lanyard.cnrad.dev/api/382275682392211466?theme=dark&bg=0d1117&borderRadius=10px" alt="Discord Activity" />
+  </a>
+</p>
 
-Here are some ideas to get you started:
+Rebirth Support Server → https://discord.gg/VXeSFrtVDb  
+BotBase Community → https://discord.gg/nUJe7wn2mJ  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🧰 Languages & Tools
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=js,ts,nodejs,python,discord,git,npm" />
+</p>
