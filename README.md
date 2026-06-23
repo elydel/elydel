@@ -15,5 +15,5 @@ Co-Founder of **BotBase-Code**
 
 ### 🧰 Languages & Tools
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=js,ts,nodejs,python,discord,git,npm" />
+  <img src="https://skillicons.dev/icons?i=js,ts,nodejs,python,discord,git,npm,css,html" />
 </p>
