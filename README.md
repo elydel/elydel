@@ -1,7 +1,6 @@
 ## Hi, I'm Ege! 👋
 ### 🚀 Verified Developer on Discord  
 Owner of **[Rebirth](https://rebirthbot.com.tr)**  
-Co-Founder of **BotBase-Code**  
 
 <p align="left">
   <a href="https://discord.com/users/382275682392211466">
@@ -11,7 +10,6 @@ Co-Founder of **BotBase-Code**
 
 **Rebirth Website** → https://rebirthbot.com.tr  
 **Rebirth Support Server** → https://discord.gg/VXeSFrtVDb  
-**BotBase Community** → https://discord.gg/nUJe7wn2mJ  
 
 ### 🧰 Languages & Tools
 <p align="left">
